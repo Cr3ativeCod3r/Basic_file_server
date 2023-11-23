@@ -1,0 +1,17 @@
+#all
+{
+    width: 1000px;
+    height: auto;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+#con
+{
+
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+}
